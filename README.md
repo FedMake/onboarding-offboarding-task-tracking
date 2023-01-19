@@ -18,8 +18,8 @@ Employee Onboarding / Offboarding Task Tracking FedMake Accelerator Developed by
 
 ## Deployment Guide
 
-1. Download [onboarding-offboarding-task-tracking.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding-offboarding-task-tracking.zip)
-2. Import the [onboarding-offboarding-task-tracking.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding-offboarding-task-tracking.zip) Power Platform solution files into Dataverse or Dataverse for Teams.
+1. Download [onboarding-offboarding-task-tracking.zip](https://github.com/FedMake/onboarding-offboarding-task-tracking/raw/main/solution/v1.0.0/onboarding-offboarding-task-tracking.zip)
+2. Import the [onboarding-offboarding-task-tracking.zip](https://github.com/FedMake/onboarding-offboarding-task-tracking/raw/main/solution/v1.0.0/onboarding-offboarding-task-tracking.zip) Power Platform solution files into Dataverse or Dataverse for Teams.
 
 ## What is a FedMake Accelerator
 
